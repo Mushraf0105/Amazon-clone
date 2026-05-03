@@ -1,0 +1,82 @@
+.homeBanner {
+    width: 100%;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+
+.homebannerimg {
+    width: 100%;
+    /* padding-left: 15px;
+    padding-right: 15px; */
+    height: 80vh;
+    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+}
+
+.grayBackgroundHomeBanner {
+    background-color: rgb(220, 218, 218);
+    height: 70vh;
+}
+
+.homeBannerItemDiv {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    top: 48%;
+    width: 100%;
+    padding: 0 20px;
+    position: absolute;
+}
+
+.homeBannerItemDivCard {
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    width: 343px;
+    box-sizing: border-box;
+    padding: 20px 0 15px;
+}
+
+.homeBannerItemDivCardTitle {
+    margin: 0 20px;
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.imgHomeBannerItemDivCard {
+    margin: 10px 20px;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.imgBannerHomeDiv {
+    height: 140px;
+    width: 144px;
+    display: flex;
+    flex-direction: column;
+}
+
+.imgBannerHomeDivImg {
+    width: 100%;
+
+}
+
+.imgBannerImgName {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.card-link {
+    margin: 0 20px;
+}
+
+.card-link {
+    text-decoration: none;
+
+}
+
+.card-link:hover {
+    color: blueviolet;
+
+}

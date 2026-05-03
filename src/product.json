@@ -1,0 +1,864 @@
+{
+  "categories": [
+    "Mobiles & Accessories",
+    "Laptops & Accessories",
+    "TV & Home Entertainment",
+    "Audio",
+    "Cameras",
+    "Computer Peripherals",
+    "Smart Technology",
+    "Musical Instruments",
+    "Office & Stationery"
+  ],
+  "categoryContent": {
+    "Mobiles & Accessories": {
+      "columns": [
+        {
+          "id": 1,
+          "sections": [
+            {
+              "title": "Mobiles",
+              "items": [],
+              "isHeaderLink": true
+            },
+            {
+              "title": "Mobiles Accessories",
+              "items": [
+                "Cases & Covers",
+                "Screen guards",
+                "Power Banks",
+                "Headsets",
+                "Data Cables",
+                "Chargers",
+                "Selfie Sticks",
+                "Skin Stickers",
+                "Internal Batteries",
+                "Mounts & Stands",
+                "Lens Kits",
+                "Replacement Parts"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sections": [
+            {
+              "title": "Mobile Brand",
+              "items": [
+                "Mi",
+                "OnePlus",
+                "Samsung",
+                "Huawei",
+                "Apple",
+                "Motorola",
+                "Nokia",
+                "Vivo",
+                "10.or",
+                "Coolpad",
+                "Honor",
+                "Lenovo",
+                "LG",
+                "Micromax"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sections": [
+            {
+              "title": "Accessories Brands",
+              "items": [
+                "OnePlus",
+                "AmazonBasics",
+                "Intex",
+                "Ambrane",
+                "Lenovo",
+                "Spigen",
+                "Jabra",
+                "Apple",
+                "Syska",
+                "Boat",
+                "Mivi",
+                "iVoltaa"
+              ]
+            }
+          ]
+        }
+      ],
+      "promotions": [
+        {
+          "id": 1,
+          "title": "Latest mobiles",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Wireless/CEEX/OnePlus6/IN_WLME_OnePlus7Pro_Miscellaneous_472x674.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Mobile Accessories",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_Mobiles_access.jpg"
+        }
+      ]
+    },
+    "Laptops & Accessories": {
+      "columns": [
+        {
+          "id": 1,
+          "sections": [
+            {
+              "title": "Laptops",
+              "items": [
+                "Thin and light laptops",
+                "2-in-1 Laptops",
+                "Gaming laptops",
+                "Budget laptops"
+              ]
+            },
+            {
+              "title": "Shop by Brand",
+              "items": [
+                "Acer",
+                "Apple",
+                "Dell",
+                "HP",
+                "Lenovo",
+                "Microsoft Surface",
+                "Samsung",
+                "Xiaomi"
+              ]
+            },
+            {
+              "title": "Laptop Buying Guide",
+              "items": [],
+              "isHeaderLink": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sections": [
+            {
+              "title": "Tablets",
+              "items": [
+                "Lenovo",
+                "Apple",
+                "Samsung",
+                "Micromax",
+                "iBall"
+              ]
+            },
+            {
+              "title": "PC Accessories",
+              "items": [
+                "Keyboards",
+                "Mice",
+                "Laptop Bags",
+                "PC Speakers",
+                "Batteries",
+                "Cables"
+              ]
+            },
+            {
+              "title": "GameZone",
+              "items": [],
+              "isHeaderLink": true
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sections": [
+            {
+              "title": "Data Storage",
+              "items": [
+                "Memory cards",
+                "Pen Drives",
+                "Hard Drives",
+                "Solid State Drives",
+                "Network Attached Storage"
+              ]
+            },
+            {
+              "title": "Shop by brand",
+              "items": [
+                "Samsung",
+                "Sandisk",
+                "WD",
+                "Seagate",
+                "Strontium",
+                "Sony",
+                "HP",
+                "Kingston"
+              ]
+            }
+          ]
+        }
+      ],
+      "promotions": [
+        {
+          "id": 1,
+          "title": "Choose the right laptop",
+          "linkText": "Shop by need",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/Laptops/Megamenu/D9130854_A-CEPC_PC_Laptop_Laptop_for_every_need_Slices_473x623.jpg"
+        },
+        {
+          "id": 2,
+          "title": "High Capacity Memeory Card",
+          "linkText": "See More",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_laptops_cards.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Hard capacity Hard Drives",
+          "linkText": "See More",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_laptops_harddrives.jpg"
+        }
+      ]
+    },
+    "TV & Home Entertainment": {
+      "columns": [
+        {
+          "id": 1,
+          "sections": [
+            {
+              "title": "Televisions",
+              "items": [
+                "Smart TVs",
+                "32 inch TVs",
+                "Large Screen TVs",
+                "4K TVs",
+                "Full HD TVs",
+                "HD Ready TVs",
+                "Google certified Android TVs",
+                "Android based TVs",
+                "Linux Smart TVs",
+                "TVs with Web OS & Tizen"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sections": [
+            {
+              "title": "Shop by Brand",
+              "items": [
+                "Mi",
+                "Sony",
+                "Samsung",
+                "LG",
+                "Panasonic",
+                "TCL",
+                "BPL",
+                "Micromax",
+                "Onida",
+                "Kodak",
+                "Kevin",
+                "OnePlus"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sections": [
+            {
+              "title": "Other home entertainment",
+              "items": [
+                "Home theater systems",
+                "Projectors & Accessories",
+                "Set top Boxes",
+                "Streaming media players",
+                "DVD & Blu-ray players",
+                "Cables",
+                "Audio-video accessories"
+              ]
+            },
+            {
+              "title": "All home entertainment systems",
+              "items": [],
+              "isHeaderLink": true
+            }
+          ]
+        }
+      ],
+      "promotions": [
+        {
+          "id": 1,
+          "title": "Smart TV store",
+          "linkText": "See More",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_tv_smart.jpg"
+        },
+        {
+          "id": 2,
+          "title": "TV Buying Guide",
+          "linkText": "Learn More",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_tv_buying_guide.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Home entertainment store",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_tv_hometheatre.jpg"
+        }
+      ]
+    },
+    "Audio": {
+      "columns": [
+        {
+          "id": 1,
+          "sections": [
+            {
+              "title": "Headphones",
+              "items": [
+                "Earphones",
+                "On & Over ear headphones",
+                "Wireless headphones",
+                "Headphones with mic",
+                "Sports headphones",
+                "Noise cancelling headphones"
+              ]
+            },
+            {
+              "title": "Speakers",
+              "items": [
+                "Bluetooth speakers",
+                "Multimedia speakers",
+                "Home theater systems",
+                "Soundbars"
+              ]
+            },
+            {
+              "title": "MP3 & other media players",
+              "items": [],
+              "isHeaderLink": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sections": [
+            {
+              "title": "Headphones brands",
+              "items": [
+                "Boat",
+                "JBL",
+                "Sony",
+                "Sennheiser",
+                "Bose",
+                "Boult",
+                "Noise",
+                "Leaf",
+                "Philips",
+                "Ant Audio",
+                "Blaupunkt",
+                "OnePlus"
+              ]
+            },
+            {
+              "title": "Premium audio store",
+              "items": [],
+              "isHeaderLink": true
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sections": [
+            {
+              "title": "Speaker brands",
+              "items": [
+                "JBL",
+                "Boat",
+                "Sony",
+                "Bose",
+                "F&D",
+                "Philips",
+                "Blaupunkt",
+                "Zoook",
+                "Mivi",
+                "Saregama"
+              ]
+            },
+            {
+              "title": "Alexa Built-in Devices Store",
+              "items": [],
+              "isHeaderLink": true
+            }
+          ]
+        }
+      ],
+      "promotions": [
+        {
+          "id": 1,
+          "title": "Premium Audio Store",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/Audio/Megamanu/megamenu_sony_473x623.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Alexa Built-in Devices Store",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/Audio/Megamanu/megamenu_473x623.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Wireless Audio Store",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_audio_speaker.jpg"
+        }
+      ]
+    },
+    "Cameras": {
+      "columns": [
+        {
+          "id": 1,
+          "sections": [
+            {
+              "title": "Cameras",
+              "items": [
+                "Digital SLRs",
+                "Point & shoot",
+                "Mirrorless Cameras",
+                "Camcorders",
+                "Camera Lenses",
+                "Action Cameras",
+                "Surveillance & Security Cameras",
+                "360 degree cameras",
+                "Spy cameras"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sections": [
+            {
+              "title": "Camera Accessories",
+              "items": [
+                "Camera Cases & bags",
+                "Tripods & monopods",
+                "Projectors",
+                "Batteries",
+                "Photo studio & lighting",
+                "Flash accessories",
+                "Binoculars & Telescopes"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sections": [
+            {
+              "title": "Shop by brand",
+              "items": [
+                "Canon",
+                "Nikon",
+                "Sony",
+                "FujiFilm",
+                "Panasonic",
+                "GoPro",
+                "Samsung",
+                "Pentax",
+                "Olympus",
+                "Lowepro"
+              ]
+            }
+          ]
+        }
+      ],
+      "promotions": [
+        {
+          "id": 1,
+          "title": "Digital SLRs",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_cameras_dslr.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Camera accessories",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_cameras_access.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Surveillance & Security",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_cameras_security.jpg"
+        }
+      ]
+    },
+    "Computer Peripherals": {
+      "columns": [
+        {
+          "id": 1,
+          "sections": [
+            {
+              "title": "Printers",
+              "items": [
+                "Inkjet Printers",
+                "Ink tank Printers",
+                "Laser Printers",
+                "Ink & Toner"
+              ]
+            },
+            {
+              "title": "Shop by brand",
+              "items": [
+                "HP",
+                "Canon",
+                "Epson",
+                "Samsung",
+                "Brother",
+                "Xerox",
+                "Pantum"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sections": [
+            {
+              "title": "Networking",
+              "items": [
+                "Routers",
+                "Modems",
+                "Data cards & Dongles",
+                "Repeaters & Extenders",
+                "Wireless USB"
+              ]
+            },
+            {
+              "title": "Shop by brand",
+              "items": [
+                "D-Link",
+                "Tenda",
+                "TP Link",
+                "Netgear"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sections": [
+            {
+              "title": "Components",
+              "items": [
+                "Internal HDD",
+                "Motherboard",
+                "Processors",
+                "Graphic Cards"
+              ]
+            },
+            {
+              "title": "Desktops",
+              "items": [],
+              "isHeaderLink": true
+            },
+            {
+              "title": "Monitors",
+              "items": [],
+              "isHeaderLink": true
+            }
+          ]
+        }
+      ],
+      "promotions": [
+        {
+          "id": 1,
+          "title": "GameZone",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_PCperipherals_gamezone.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Routers under Rs 999",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_PCperipherals_routers.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Bestselling Ink Tank printers",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/Printers/V101208515_IN_PC_Printers_Mega_menu_graphics_473x623.jpg"
+        }
+      ]
+    },
+    "Smart Technology": {
+      "columns": [
+        {
+          "id": 1,
+          "sections": [
+            {
+              "title": "Smart Store",
+              "items": [
+                "Wearable Devices",
+                "Activity Trackers",
+                "Smart watches",
+                "Virtual Reality",
+                "Action Camera",
+                "Amazon Alexa enabled speakers"
+              ]
+            },
+            {
+              "title": "Activity tracker brands",
+              "items": [
+                "Mi",
+                "Lenovo",
+                "Boltt",
+                "Huawei",
+                "Goqii",
+                "Fitbit"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sections": [
+            {
+              "title": "Smartwatch brands",
+              "items": [
+                "Samsung",
+                "Huawei",
+                "Apple",
+                "TCL",
+                "Noise",
+                "Garmin",
+                "Suunto"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sections": [
+            {
+              "title": "Smart living store",
+              "items": [
+                "Alexa smart home",
+                "Smart lights",
+                "Smart plugs",
+                "Smart locks"
+              ]
+            },
+            {
+              "title": "Shop by brand",
+              "items": [
+                "Philips hue",
+                "D-link",
+                "TP-link",
+                "Oakter",
+                "Syska"
+              ]
+            }
+          ]
+        }
+      ],
+      "promotions": [
+        {
+          "id": 1,
+          "title": "Alexa Smart Home",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_smarthome_beginners.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Top selling smartwatches",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Wearables/Revamp_Dec26th_18/smart_watches_472x674.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Top 10 activity trackers",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Wearables/Revamp_Dec26th_18/activity_trackers_472x674.jpg"
+        }
+      ]
+    },
+    "Musical Instruments": {
+      "columns": [
+        {
+          "id": 1,
+          "sections": [
+            {
+              "title": "Musical Instruments",
+              "items": [
+                "Guitars",
+                "Keyboards & synthesizers",
+                "Wind instruments",
+                "Drums & percussion",
+                "Accessories",
+                "Indian Instruments"
+              ]
+            },
+            {
+              "title": "Featured stores",
+              "items": [
+                "Beginners Musical Instruments",
+                "DJ, Stage Recording & Pro-audio"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sections": [
+            {
+              "title": "Sound & Recording",
+              "items": [
+                "DJ Controllers",
+                "Microphones",
+                "Audio Interfaces",
+                "Studio monitors & speakers",
+                "Portable recording devices",
+                "Karaoke"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sections": [
+            {
+              "title": "Shop by brand",
+              "items": [
+                "Intern",
+                "Juarez",
+                "Casio",
+                "Yamaha",
+                "RockJam",
+                "Kadence",
+                "Fender",
+                "Zoom",
+                "Blue Microphones",
+                "Hercules",
+                "Focusrite",
+                "Rode",
+                "Behringer"
+              ]
+            }
+          ]
+        }
+      ],
+      "promotions": [
+        {
+          "id": 1,
+          "title": "Beginner's store",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_MI_beginners.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Sound and recording",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_MI_soundrecording.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Musical Instruments Buying guide",
+          "linkText": "",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_MI_buyingguide.jpg"
+        }
+      ]
+    },
+    "Office & Stationery": {
+      "columns": [
+        {
+          "id": 1,
+          "sections": [
+            {
+              "title": "Office Products",
+              "items": [
+                "Pens, Pencils & Writing Supplies",
+                "Pens & refills",
+                "Pencils",
+                "Premium pens",
+                "Highlighters",
+                "Permanent markers"
+              ]
+            },
+            {
+              "title": "Art & Craft Supplies",
+              "items": [
+                "Art markers",
+                "Painting supplies",
+                "Crayons",
+                "Coloring pens",
+                "Art glues"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sections": [
+            {
+              "title": "Notebooks & Diaries",
+              "items": [
+                "Notebooks",
+                "Paper",
+                "Drawing pads"
+              ]
+            },
+            {
+              "title": "Calculators",
+              "items": [],
+              "isHeaderLink": true
+            },
+            {
+              "title": "Office Supplies",
+              "items": [
+                "Shredders",
+                "Note counting machines",
+                "Staplers & punches",
+                "Files & folders"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sections": [
+            {
+              "title": "Shop by brand",
+              "items": [
+                "Parker",
+                "Casio",
+                "GBC",
+                "Faber Castell",
+                "Camlin",
+                "Waterman"
+              ]
+            }
+          ]
+        }
+      ],
+      "promotions": [
+        {
+          "id": 1,
+          "title": "Art and Craft store",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_office_Artcraft.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Office supplies",
+          "linkText": "See more",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_office_officesupplies.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Everyday Stationery supplies",
+          "linkText": "",
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Electronics/Megamenu/CEPC_Megasubnav_office_stationery.jpg"
+        }
+      ]
+    }
+  }
+}

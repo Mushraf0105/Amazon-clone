@@ -1,0 +1,115 @@
+[
+    {
+        "title": "Get to Know Us",
+        "breakLastWord": true,
+        "links": [
+            {
+                "name": "About Amazon",
+                "url": "https://www.aboutamazon.com/about-us"
+            },
+            {
+                "name": "Careers",
+                "url": "https://www.amazon.jobs/"
+            },
+            {
+                "name": "Press Releases",
+                "url": "https://www.amazon.in/b?ie=UTF8&node=1592137031"
+            },
+            {
+                "name": "Amazon Science",
+                "url": "https://www.amazon.science/"
+            }
+        ]
+    },
+    {
+        "title": "Connect with Us",
+        "breakLastWord": true,
+        "links": [
+            {
+                "name": "Facebook",
+                "url": "https://www.facebook.com/AmazonIN/"
+            },
+            {
+                "name": "Twitter",
+                "url": "https://x.com/amazonIN"
+            },
+            {
+                "name": "Instagram",
+                "url": "https://www.instagram.com/amazon/"
+            }
+        ]
+    },
+    {
+        "title": "Make Money with Us",
+        "links": [
+            {
+                "name": "Sell on Amazon",
+                "url": "#"
+            },
+            {
+                "name": "Sell under Amazon Accelerator",
+                "breakLastWord": true,
+                "url": "#"
+                
+                
+            },
+            {
+                "name": "Protect and Build Your Brand",
+                "url": "#"
+            },
+            {
+                "name": "Amazon Global Selling",
+                "url": "#"
+            },
+            {
+                "name": "Supply to Amazon",
+                "url": "#"
+            },
+            {
+                "name": "Become an Affiliate",
+                "url": "#"
+            },
+            {
+                "name": "Fulfilment by Amazon",
+                "url": "#"
+            },
+            {
+                "name": "Advertise Your Products",
+                "url": "#"
+            },
+            {
+                "name": "Amazon Pay on Merchants",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "title": "Let Us Help You",
+        "links": [
+            {
+                "name": "Your Account",
+                "url": "#"
+            },
+            {
+                "name": "Returns Centre",
+                "url": "#"
+            },
+            {
+                "name": "Recalls and Product Safety Alerts",
+                "url": "#"
+            },
+            {
+                "name": "100% Purchase Protection",
+                "url": "#"
+            },
+            {
+                "name": "Amazon App Download",
+                "url": "#"
+            },
+            {
+                "name": "Help",
+                "url": "#"
+            }
+        ]
+    }
+]

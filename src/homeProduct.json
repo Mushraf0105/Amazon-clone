@@ -1,0 +1,84 @@
+{
+    "product": [
+        {
+            "itemTitle": "Revamp your home in style",
+            "linkText": "Explore all",
+            "imgs": [
+                { "name": "Cushion covers, bedsheets & more", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_furnishings_2._SY116_CB555624324_.jpg" },
+                { "name": "Figurines, vases & more", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_decor_1._SY116_CB555624324_.jpg" },
+                { "name": "Home storage", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_storage_1._SY116_CB555624324_.jpg" },
+                { "name": "Lighting solutions", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_lighting_2._SY116_CB555624324_.jpg" }
+            ]
+        },
+        {
+            "itemTitle": "Bulk order discounts + Up to 18% GST savings",
+            "linkText": "Create a free account",
+            "imgs": [
+                { "name": "Up to 45% off | Laptops", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/AmazonBusiness/img25/nov/bau/ain/gw/Laptops_186_116_10._SY116_CB777673831_.jpg" },
+                { "name": "Up to 60% off | Kitchen appliances", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/AmazonBusiness/img25/nov/bau/ain/gw/KitchenAppliances_186_116_10._SY116_CB777673831_.jpg" },
+                { "name": "Min. 50% off | Office furniture", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/AmazonBusiness/img25/nov/bau/ain/gw/OfficeChairs_186_116_10._SY116_CB777673831_.jpg" },
+                { "name": "Up to 60% off | for Business Purchases", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/AmazonBusiness/img25/dec/bau/ain/gw/ABdelivery_186_116._SY116_CB776314701_.jpg" }
+            ]
+        },
+        {
+            "itemTitle": "Appliances for your home | Up to 55% off",
+            "linkText": "See More",
+            "imgs": [
+                { "name": "Air conditioners", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08RDL6H79._SY116_CB667322346_.jpg" },
+                { "name": "Refrigerators", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08345R1ZW._SY116_CB667322346_.jpg" },
+                { "name": "Microwaves", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B07G5J5FYP._SY116_CB667322346_.jpg" },
+                { "name": "Washing machines", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/186x116---wm._SY116_CB667322346_.jpg" }
+            ]
+        },
+        {
+            "itemTitle": "Starting ₹49 | Deals on home essentials",
+            "linkText": "Explore all",
+            "imgs": [
+                { "name": "Cleaning supplies", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/HomeImprovement/harsmisc/2025/March/Wipes_low_res_V1._SY116_CB549138744_.jpg" },
+                { "name": "Bathroom accessories", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/HomeImprovement/harsmisc/2025/March/Shower_heads_low_res_V1._SY116_CB549138744_.jpg" },
+                { "name": "Home tools", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/HomeImprovement/harsmisc/2025/March/Tools_low_res_V1._SY116_CB549138744_.jpg" },
+                { "name": "Wallpapers", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/HomeImprovement/harsmisc/2025/March/Wallpapers_low_res_V1._SY116_CB549138744_.jpg" }
+            ]
+        },
+        {
+            "itemTitle": "Starting ₹149 | Headphones",
+            "linkText": "See all offers",
+            "imgs": [
+                { "name": "Starting ₹249 | Boat", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/june/CE/GW/QC/PC/PC_QuadCard_boAt_0.5x._SY116_CB553870684_.jpg" },
+                { "name": "Starting ₹349 | Boult", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/june/CE/GW/QC/PC/PC_QuadCard_Boult_0.5x._SY116_CB553870684_.jpg" },
+                { "name": "Starting ₹649 | Noise", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/june/CE/GW/QC/PC/PC_QuadCard_Noise_0.5x._SY116_CB553870684_.jpg" },
+                { "name": "Starting ₹149 | Zebronics", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/june/CE/MSO/PD3/PC_QuadCard_Zeb_0.5x_1._SY116_CB570220221_.jpg" }
+            ]
+        },
+        {
+            "itemTitle": "Automotive essentials | Up to 60% off",
+            "linkText": "See More",
+            "imgs": [
+                { "name": "Glass care", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Glasscare1X._SY116_CB410830553_.jpg" },
+                { "name": "Rim & tyre care", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Rim_tyrecare1x._SY116_CB410830552_.jpg" },
+                { "name": "Helmets", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vega_helmet_186x116._SY116_CB405090404_.jpg" },
+                { "name": "Vacuum cleaners", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vaccum1x._SY116_CB410830552_.jpg" }
+            ]
+        },
+        {
+            "itemTitle": "Starting ₹199 | Amazon Brands & more",
+            "linkText": "See More",
+            "imgs": [
+                { "name": "Starting ₹199 | Bedsheets ", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_2._SY116_CB567468236_.jpg" },
+                { "name": "Starting ₹249 | Curtains", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_3._SY116_CB567468236_.jpg" },
+                { "name": "Minium 40% off | ironing board & more", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_4._SY116_CB567468236_.jpg" },
+                { "name": "Up to 60% off | home decore", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_1._SY116_CB567468236_.jpg" }
+            ]
+        },
+        {
+            "itemTitle": "Up to 50% off | Baby care & toys | Amazon Brands",
+            "linkText": "See all offers",
+            "imgs": [
+                { "name": "Up to 50% off | baby dipers & wipes", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/PB/GW/PC/PC_QC_372x232_Life-Style_2_1x._SY116_CB788857785_.jpg" },
+                { "name": "Up to 50% off | rides on", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/PB/GW/PC/PC_QC_372x232_Life-Style_1_1x._SY116_CB788857785_.jpg" },
+                { "name": "Starting ₹649 | RC cars", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/PB/GW/PC/PC_QC_372x232_Life-Style_3_1x._SY116_CB788857785_.jpg" },
+                { "name": "Up to 50% off | baby safety essentials ", "url": "https://images-eu.ssl-images-amazon.com/images/G/31/PB/GW/PC/PC_QC_372x232_Life-Style_4_1x._SY116_CB788857785_.jpg" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,557 @@
+body {
+  font-family: "Amazon Ember", Arial, sans-serif;
+  background-color: #fff;
+  color: #0F1111;
+
+}
+
+.link {
+  font-size: 15px;
+  font-weight: 700;
+  padding: 0 13px;
+
+  &:hover {
+    cursor: pointer;
+    text-decoration: none;
+  }
+}
+
+.navbar-custom {
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  position: sticky;
+  z-index: 100000;
+}
+
+.nav-list {
+  font-size: 12.5px;
+  width: 100%;
+}
+
+.nav-item {
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s ease-in-out;
+  white-space: nowrap;
+}
+
+.nav-link-custom {
+  color: #565959;
+  font-weight: 500;
+  display: block;
+}
+
+
+.nav-item:hover .nav-link-custom {
+  color: #c7511f;
+}
+
+
+.nav-item.active {
+  border-bottom: 2px solid #007185;
+}
+
+.nav-item.active .nav-link-custom {
+  color: #0F1111;
+  font-weight: 700;
+}
+
+
+.mega-menu-wrapper {
+  position: fixed;
+  top: 160px;
+  left: 0;
+  width: 100%;
+  z-index: 99999;
+  background-color: white;
+  animation: fadeIn 0.2s ease-in-out;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.mega-menu-content {
+  background-color: #fff;
+  font-size: 13px;
+  min-height: 400px;
+}
+
+
+.section-title {
+  font-weight: 700;
+  color: #0F1111;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.section-title.pointer-link {
+  cursor: pointer;
+}
+
+.section-title.pointer-link:hover {
+  color: #c7511f;
+  text-decoration: underline;
+}
+
+.menu-link {
+  color: #565959;
+  text-decoration: none;
+  line-height: 24px;
+  display: block;
+}
+
+.menu-link:hover {
+  text-decoration: underline;
+}
+
+
+.promo-card {
+  padding: 5px;
+  transition: transform 0.2s;
+}
+
+.image-wrapper {
+  background-color: white;
+  padding: 5px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+}
+
+.promo-img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  mix-blend-mode: multiply;
+}
+
+.promo-title {
+  font-weight: 700;
+  font-size: 13px;
+  margin-bottom: 4px;
+  color: #0F1111;
+}
+
+.promo-link {
+  color: #007185;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.promo-link:hover {
+  color: #c7511f;
+  text-decoration: underline;
+}
+
+
+.nav-link-custom {
+  display: flex;
+  align-items: center;
+  color: #565959;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+
+.nav-link-custom::after {
+  content: '';
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-right: 2px solid #767676;
+  border-bottom: 2px solid #767676;
+  transform: rotate(45deg);
+  margin-left: 6px;
+  margin-bottom: 3px;
+  transition: all 0.2s ease-in-out;
+}
+
+.nav-item:hover .nav-link-custom::after {
+  border-color: #c7511f;
+  transform: rotate(225deg);
+  margin-bottom: -2px;
+}
+
+.nav-item.active .nav-link-custom::after {
+  border-color: #0F1111;
+  transform: rotate(225deg);
+  margin-bottom: -2px;
+}
+
+
+
+/* ProductPageMain */
+.productPageMain {
+  display: flex;
+  padding: 16px 8px;
+  position: relative;
+  z-index: 1;
+}
+
+.productPageMainLeftCategory {
+  width: 15.5%;
+  border-right: 2px solid #ddd;
+  padding: 0 10px;
+  ;
+}
+
+.productPageMainLeftCategoryTitle {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.productPageMainLeftCategoryContentLink {
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 20px;
+  margin-top: 5px;
+
+  &:hover {
+    cursor: pointer;
+    color: #c7511f;
+  }
+}
+
+.productPageMainLeftCategoryContentActiveLink {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 20px;
+  margin-top: 5px;
+  color: black;
+
+  &:hover {
+    cursor: pointer;
+    color: #c7511f;
+  }
+}
+
+.productPageMainLeftCategoryContentTitle {
+  font-size: 14px;
+  font-weight: 700;
+  margin-left: 20px;
+}
+
+
+
+.filter-section {
+  font-size: 14px;
+  color: #0F1111;
+}
+
+.filter-group {
+  margin-bottom: 18px;
+}
+
+.filter-title {
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.amazon-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  user-select: none;
+
+
+}
+
+.amazon-checkbox input {
+  display: none;
+}
+
+.checkbox-box {
+  width: 16px;
+  height: 16px;
+  border: 2px solid #888;
+  border-radius: 2px;
+  position: relative;
+}
+
+.amazon-checkbox input:checked+.checkbox-box {
+  border-color: #c45500;
+}
+
+.amazon-checkbox input:checked+.checkbox-box::after {
+  content: "✓";
+  position: absolute;
+  left: 1px;
+  top: -3px;
+  color: #c45500;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+
+.prime-text {
+  color: #0073bb;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 17px;
+}
+
+.prime-check {
+  color: #ff9900;
+  font-size: 14px;
+}
+
+.rating-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+}
+
+.stars {
+  color: orange;
+  font-size: 23px;
+}
+
+.rating-text {
+  color: #0F1111;
+}
+
+
+.amazon-checkbox:hover {
+  color: #c7511f;
+}
+
+.rating-row:hover {
+  cursor: pointer;
+}
+
+.rating-row:hover .rating-text {
+  color: #c7511f;
+}
+
+.productPageMainLeftCategoryContentPrice {
+  margin-top: 4px;
+  cursor: pointer;
+  margin-bottom: 5px;
+
+}
+
+.productPageMainLeftCategoryContentPrice:hover {
+  color: #c7511f;
+}
+
+.productPageMainLeftCategoryDeal {
+  font-size: 14px;
+  font-weight: 700;
+  margin-top: 15px;
+}
+
+.productPageMainRightCategory {
+  padding: 0 10px;
+}
+
+.productPageMainRightCategoryBannerImg {
+  width: 380px;
+  cursor: pointer;
+}
+
+.productPageMainRightCategoryBigBannerImg {
+  margin-left: 20px;
+  cursor: pointer;
+  width: 1200px;
+  padding-left: 10px;
+  padding-right: 20px;
+
+}
+
+.productPageMainRightBanner2 {
+  background-color: #a7adae;
+}
+
+.productPageMainRightCardBannerImg {
+  width: 150px;
+  cursor: pointer;
+  margin-left: 40px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  gap: 50px;
+}
+
+.productPageMainRightCardBanner {
+  background-color: skyblue;
+  display: flex;
+  gap: 190px;
+
+}
+
+.productPageMainRightBanner3Img {
+  width: 1220px;
+}
+
+.productPageRightBannerpieces {
+  display: flex;
+}
+
+.productPageRightBannerPieceImg {
+  width: 305px;
+  cursor: pointer;
+}
+
+.productPageMainRightBanner4 {
+  background-color: #a7adae;
+
+}
+
+.productPageMainRightBanner4Img {
+  width: 1200px;
+  margin-left: 20px;
+  padding-left: 10px;
+  padding-right: 20px;
+  cursor: pointer;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.amazon-scroll {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  padding: 10px 0;
+}
+
+.amazon-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.product-card {
+  min-width: 220px;
+  height: 260px;
+  border-radius: 12px;
+  background: rgb(249, 184, 195);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* Arrow buttons */
+.nav-btn {
+  position: absolute;
+  top: 55%;
+  transform: translateY(-50%);
+  background: white;
+  border: 1px solid #ccc;
+  width: 40px;
+  height: 60px;
+  cursor: pointer;
+  font-size: 24px;
+  z-index: 10;
+}
+
+.nav-btn.left {
+  left: 0;
+}
+
+.nav-btn.right {
+  right: 0;
+}
+
+.nav-btn:hover {
+  background: #f1f1f1;
+}
+
+
+.amazon-slider-section {
+  max-width: 1160px;
+  margin-left: 30px;
+  margin-right: 30px;
+  position: relative;
+  padding: 0 40px;
+  background: rgb(249, 184, 195);
+  z-index: 50;
+  margin-top: 20px;
+}
+
+
+.amazon-scroll {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+  padding: 10px 0;
+}
+
+
+.product-card {
+  min-width: 100px;
+  height: 150px;
+  border-radius: 12px;
+  scroll-snap-align: start;
+  flex-shrink: 0;
+}
+
+.product-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+
+}
+
+/* ARROWS*/
+.nav-btn {
+  position: absolute;
+  top: 55%;
+  transform: translateY(-50%);
+  width: 42px;
+  height: 70px;
+  background: pink;
+  border: 1px solid #d5d9d9;
+  cursor: pointer;
+  font-size: 26px;
+  z-index: 200;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+.nav-btn.left {
+  left: 0;
+}
+
+.nav-btn.right {
+  right: 0;
+}
+
+.nav-btn:hover {
+  background: #f7fafa;
+}
+
+.productPageMainRightBanner5Img {
+  width: 1200px;
+  margin-left: 20px;
+  padding-left: 10px;
+  padding-right: 20px;
+  cursor: pointer;
+}

@@ -1,0 +1,130 @@
+.homeDetails {
+    width: 100%;
+    padding: 20px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    background-color: rgb(220, 218, 218);
+}
+
+.homeDetailLongCard {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 15px;
+    background-color: white;
+    margin-top: 30px;
+
+}
+
+.homeDetailLongCardTitle {
+    font-size: 21px;
+    font-weight: 600;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.link {
+    text-decoration: none;
+    display: flex;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: 7px;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.homeDetailLongCardItems {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 10px 0px;
+    overflow: hidden;
+    position: relative;
+
+}
+
+.scrollDiv {
+    display: flex;
+    width: 100%;
+    gap: 15px;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+
+}
+
+.scrollDiv::-webkit-scrollbar {
+   /* display: none;  */
+}
+
+.scrollDiv {
+    -ms-overflow-style: none;
+    
+    /* scrollbar-width: none; */
+}
+
+.scrollBtn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid #ccc;
+    width: 40px;
+    height: 80px;
+    cursor: pointer;
+    z-index: 10;
+    font-size: 20px;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.homeDetailLongCardItems:hover .scrollBtn {
+    opacity: 1;
+    visibility: visible;
+}
+
+.scrollBtn:hover {
+    background-color: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.scrollBtn.left {
+    left: 0;
+    border-radius: 0 4px 4px 0;
+}
+
+.scrollBtn.right {
+    right: 0;
+    border-radius: 4px 0 0 4px;
+}
+
+.homeDetailLongCardItem {
+    display: flex;
+    flex-shrink: 0;
+    cursor: pointer;
+    flex-direction: column;
+    width: 17%;
+    align-items: center;
+    padding: 10px;
+    background-color: white;
+    height: 200px;
+    justify-content: center;
+}
+
+.homeDetailLongCardItemImg {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}

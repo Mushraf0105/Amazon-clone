@@ -1,0 +1,17 @@
+
+.back-to-top {
+  background-color: #37475a; 
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 13px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+  width: 100%;
+  transition: background-color 0.2s;
+}
+
+.back-to-top:hover {
+  background-color: #485769; 
+}

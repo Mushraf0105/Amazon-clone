@@ -1,0 +1,131 @@
+.navbar {
+    background: #131921;
+}
+
+.nav-item .nav-link {
+    color: white !important;
+    text-decoration: none;
+    padding: 2px 2px;
+}
+
+.nav-item .nav-link:hover {
+    border: 1px solid white;
+}
+
+#navbarNav {
+    gap: 15px;
+}
+
+.container-fluid button {
+    background-color: white;
+    margin-top: 5px;
+}
+
+.menu-btn {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    color: white;
+    cursor: pointer;
+    margin-right: 15px;
+    border: 2px solid transparent;
+    padding: 6px 10px;
+    transition: border 0.3s ease;
+}
+
+.menu-btn:hover {
+    border: 2px solid white;
+    border-radius: 4px;
+}
+
+.menu-icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 18px;
+}
+
+.menu-icon span {
+    width: 20px;
+    height: 2px;
+    background: white;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    display: none;
+    z-index: 999;
+}
+
+.overlay.show {
+    display: block;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: -350px;
+    width: 350px;
+    height: 100%;
+    background: #fff;
+    color: #111;
+    z-index: 1000;
+    overflow-y: auto;
+    transition: left 0.3s ease;
+}
+
+.sidebar.open {
+    left: 0;
+}
+
+.sidebar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 15px;
+    background: #383a3c;
+}
+
+.sidebar-header h3 {
+    margin: 0;
+    font-size: 16px;
+    color: white;
+}
+
+.close-btn {
+    font-size: 20px;
+    cursor: pointer;
+    color: #111;
+}
+
+.sidebar-section {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+.sidebar-section h4 {
+    font-size: 14px;
+    margin: 10px 15px;
+    color: #111;
+
+    padding-bottom: 5px;
+}
+
+.sidebar-section a {
+    display: block;
+    text-decoration: none;
+    color: #111;
+    padding: 8px 15px;
+
+}
+
+.sidebar-section a:hover {
+    background: #f1f1f1;
+}

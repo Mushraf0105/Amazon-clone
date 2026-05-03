@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    padding: 10px 20px;
+    color: white;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.left img {
+    width: 100px;
+}
+
+.left img:hover {
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 2px;
+}
+
+.left select,
+.left input {
+    height: 35px;
+    border-radius: 4px;
+    border: none;
+    padding: 0 10px;
+}
+
+.left select {
+    background-color: black;
+    color: white;
+}
+
+.left select:hover {
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 2px;
+}
+
+.left input {
+    width: 800px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.right #languages {
+    color: white;
+    background-color: black;
+    border: none;
+    height: 35px;
+    border-radius: 4px;
+    padding: 0 10px;
+
+}
+
+.right #languages:hover {
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 2px;
+}
+
+.Sign button,
+.orders button {
+    height: 35px;
+    padding: 0 15px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.Sign button {
+    background-color: black;
+    color: white;
+    width: 100px;
+}
+
+.Sign button:hover {
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 2px;
+
+}
+
+.orders button {
+    background-color: black;
+    color: white;
+}
+
+.orders button:hover {
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 2px;
+}
